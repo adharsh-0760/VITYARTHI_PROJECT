@@ -48,7 +48,7 @@ The project is implemented in several steps simulating the essential data proces
 
 - Training and validation accuracy across epochs (PyTorch):
 
-![CIFAR10 CNN Classification Results - PyTorch](reports/figures/cifar10_cnn_classification_results_pytorch.png)
+![CIFAR10 CNN Classification Results - PyTorch](cifar10_cnn_classification_results_pytorch.png)
 
 
 
